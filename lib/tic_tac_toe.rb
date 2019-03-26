@@ -108,5 +108,8 @@ def play
   until over?
     turn
   end
+
+  winner
+
 end
 end
