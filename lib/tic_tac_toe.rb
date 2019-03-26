@@ -104,3 +104,8 @@ def winner
   end
 end
 end
+
+def play
+  turn
+end
+  
