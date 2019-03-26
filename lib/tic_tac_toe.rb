@@ -105,6 +105,11 @@ def winner
 end
 
 def play
+  until over
+    turn
+  end
+    
+  end
 
 end
 end
