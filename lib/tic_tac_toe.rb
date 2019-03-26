@@ -108,8 +108,8 @@ def play
   until over?
     turn
   end
-
-  winner
+if winner == "X"
+  puts "Congratulations X!"
 
 end
 end
