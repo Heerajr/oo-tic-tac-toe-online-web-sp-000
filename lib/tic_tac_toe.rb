@@ -114,7 +114,6 @@ elsif winner == "O"
   puts "Congratulations O!"
 elsif if draw?
   puts "Cats Game!"
-
 end
 end
 end
