@@ -109,6 +109,4 @@ def play
   until over
     turn
   end
-
-  end
 end
