@@ -113,7 +113,7 @@ if winner == "X"
 elsif winner == "O"
   puts "Congratulations O!"
 elsif if draw?
-  puts "Cats Game!"
+  puts "Cat's Game!"
 end
 end
 end
