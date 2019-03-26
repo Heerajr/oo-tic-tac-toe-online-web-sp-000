@@ -103,3 +103,4 @@ def winner
     return @board[won?.first]
   end
 end
+end
