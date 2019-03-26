@@ -110,6 +110,6 @@ def play
   end
 if winner == "X"
   puts "Congratulations X!"
-
+end
 end
 end
