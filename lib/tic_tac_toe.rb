@@ -103,4 +103,8 @@ def winner
     return @board[won?.first]
   end
 end
+
+def play
+
+end
 end
