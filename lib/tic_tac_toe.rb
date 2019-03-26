@@ -105,7 +105,7 @@ def winner
 end
 end
 
-def play
+def play(board)
   until over
     turn
   end
