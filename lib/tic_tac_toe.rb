@@ -102,11 +102,9 @@ def winner
   if won?
     return @board[won?.first]
   end
-end
-end
 
-def play(board)
-  until over
-    turn
+  def play
+
   end
+end
 end
